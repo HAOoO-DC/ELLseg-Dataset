@@ -61,3 +61,6 @@ If you would like to provide data related to EAT, LA, and LAA, please contact us
   * Yanjin Wang
   * Huiming Guo
 
+* Gaizhen Liu (The Second Hospital of Shanxi Medical University)
+
+* Yanxian Hao (Fenyang People's Hospital)
