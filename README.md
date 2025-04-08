@@ -51,7 +51,7 @@ For any questions or further information, feel free to contact us via email at d
 
 If you would like to provide data related to EAT, LA, and LAA, please contact us via email at dechenhao1998@163.com. Let's work together to deepen our knowledge and combat atrial fibrillation!
 
-## Core EAT & LAA Dataset Team
+## Core EAT & LA & LAA Dataset Team
 * Beijing University of Technology, China
   * Dechen Hao
   * Jinfu Yang
