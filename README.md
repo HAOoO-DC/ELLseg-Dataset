@@ -15,10 +15,10 @@ The dataset provides 40 CT cardiac images acquired in real clinical settings, fo
 
 **
 * * *
-<p xmlns:cc="http://creativecommons.org/ns#" xmlns:dct="http://purl.org/dc/terms/"><a property="dct:title" rel="cc:attributionURL" href="https://github.com/HAOoO-DC/Epicardial-Adipose-Tissue-and-Left-Atrial-Appendage-Image-Segmentation-Dataset">Epicardial Adipose Tissue and Left Atrial Appendage Image Segmentation Dataset (EAT & LAA Dataset)</a> by <span property="cc:attributionName">Dechen Hao</span> is licensed under <a href="https://creativecommons.org/licenses/by-nc-nd/4.0/?ref=chooser-v1" target="_blank" rel="license noopener noreferrer" style="display:inline-block;">CC BY-NC-ND 4.0<img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/cc.svg?ref=chooser-v1" alt=""><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/by.svg?ref=chooser-v1" alt=""><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/nc.svg?ref=chooser-v1" alt=""><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/nd.svg?ref=chooser-v1" alt=""></a></p>
-This work&nbsp;is licensed under&nbsp;CC BY-NC-ND 4.0&nbsp;![cc-logo.f0ab4ebe.svg](https://chooser-beta.creativecommons.org/img)
+<p xmlns:cc="http://creativecommons.org/ns#" xmlns:dct="http://purl.org/dc/terms/">This work&nbsp;is licensed under&nbsp; <a href="https://creativecommons.org/licenses/by-nc-nd/4.0/?ref=chooser-v1" target="_blank" rel="license noopener noreferrer" style="display:inline-block;">CC BY-NC-ND 4.0<img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/cc.svg?ref=chooser-v1" alt=""><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/by.svg?ref=chooser-v1" alt=""><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/nc.svg?ref=chooser-v1" alt=""><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/nd.svg?ref=chooser-v1" alt=""></a></p>
+This work&nbsp;is licensed under&nbsp;CC BY-NC-ND 4.0&nbsp;!
 
-![avatar](https://chooser-beta.creativecommons.org/img/cc-logo.f0ab4ebe.svg)
+
 
 
 ### 1. Epicardial Fat Layer Image Segmentation Dataset
