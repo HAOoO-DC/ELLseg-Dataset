@@ -42,7 +42,7 @@ The dataset provides CT cardiac images acquired in real clinical settings, focus
 This dataset is suitable but not limited to the following research areas:
 - Development and validation of medical image analysis algorithms.
 - Risk assessment and early detection of cardiovascular diseases.
-- Exploration of new biomarkers for EAT and LAA using machine learning and deep learning approaches.
+
 
 
 
