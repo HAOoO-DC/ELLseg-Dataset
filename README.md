@@ -16,9 +16,9 @@ The dataset provides 40 CT cardiac images acquired in real clinical settings, fo
 **
 * * *
 
-This work&nbsp;is licensed under&nbsp;CC BY-NC-ND 4.0&nbsp;![f0ab4ebef27340de880839fd3243548b.svg+xml](en-resource://database/808:0)
+This work&nbsp;is licensed under&nbsp;CC BY-NC-ND 4.0&nbsp;![cc-logo.f0ab4ebe.svg](https://chooser-beta.creativecommons.org/img)
 
-[avatar](https://chooser-beta.creativecommons.org/img/cc-logo.f0ab4ebe.svg)
+![avatar](https://chooser-beta.creativecommons.org/img/cc-logo.f0ab4ebe.svg)
 
 
 ### 1. Epicardial Fat Layer Image Segmentation Dataset
