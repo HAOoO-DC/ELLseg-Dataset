@@ -55,7 +55,7 @@ This dataset is suitable but not limited to the following research areas:
 
 
 
-## Core EAT & LA & LAA Dataset Team
+## Core ELLseg-Dataset Team
 * Beijing University of Technology, China
   * Dechen Hao
   * Jinfu Yang
