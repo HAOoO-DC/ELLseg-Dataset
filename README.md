@@ -46,10 +46,6 @@ This dataset is suitable but not limited to the following research areas:
 
 
 
-## Contact Us
-For any questions or further information, feel free to contact us via email at dechenhao1998@163.com.
-
-If you would like to provide data related to EAT, LA, and LAA, please contact us via email at dechenhao1998@163.com. Let's work together to deepen our knowledge and combat atrial fibrillation!
 
 ## Core EAT & LA & LAA Dataset Team
 * Beijing University of Technology, China
@@ -60,7 +56,3 @@ If you would like to provide data related to EAT, LA, and LAA, please contact us
   * Hualing Li
   * Yanjin Wang
   * Huiming Guo
-
-* Gaizhen Liu (The Second Hospital of Shanxi Medical University)
-
-* Yanxian Hao (Fenyang People's Hospital)
