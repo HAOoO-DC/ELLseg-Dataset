@@ -16,27 +16,32 @@ The dataset provides CT cardiac images acquired in real clinical settings, focus
 
 **
 * * *
+
+
+## License
 <p xmlns:cc="http://creativecommons.org/ns#" xmlns:dct="http://purl.org/dc/terms/">This work&nbsp;is licensed under&nbsp; <a href="https://creativecommons.org/licenses/by-nc-nd/4.0/?ref=chooser-v1" target="_blank" rel="license noopener noreferrer" style="display:inline-block;">CC BY-NC-ND 4.0 <img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/cc.svg?ref=chooser-v1" alt=""><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/by.svg?ref=chooser-v1" alt=""><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/nc.svg?ref=chooser-v1" alt=""><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/nd.svg?ref=chooser-v1" alt=""></a></p>
 
 <a href="https://github.com/HAOoO-DC/ELLseg-Dataset">ELLseg-Dataset：Epicardial Adipose Tissue, Left Atrium, and Left Atrial Appendage Image Segmentation Dataset (EAT &amp; LA &amp; LAA Dataset)</a> © 2025 by <a href="https://orcid.org/0000-0002-4686-423X">Dechen Hao</a> is licensed under <a href="https://creativecommons.org/licenses/by-nc-nd/4.0/">CC BY-NC-ND 4.0</a><img src="https://mirrors.creativecommons.org/presskit/icons/cc.svg" style="max-width: 1em;max-height:1em;margin-left: .2em;"><img src="https://mirrors.creativecommons.org/presskit/icons/by.svg" style="max-width: 1em;max-height:1em;margin-left: .2em;"><img src="https://mirrors.creativecommons.org/presskit/icons/nc.svg" style="max-width: 1em;max-height:1em;margin-left: .2em;"><img src="https://mirrors.creativecommons.org/presskit/icons/nd.svg" style="max-width: 1em;max-height:1em;margin-left: .2em;">
+
+## Data
 
 ### 1. Epicardial Adipose Tissue Image Segmentation Dataset (EAT)
 - **Description**: Contains heart images acquired through various imaging techniques, with a focus on the labeling and segmentation of the epicardial adipose tissue.
 - **Image Types**: Primarily includes CT (Computed Tomography) images.
 - **Annotations**: EAT regions marked by professional doctors to ensure accuracy and reliability of the data.
-- **Quantity**: Includes 40 images covering different patient cases.
+- **Quantity**: Includes 30 images covering different patient cases.
 
 ### 2. Left Atrial Segmentation Dataset (LA)
 - **Description**: As one of the key components of the heart, the functional state of the LA directly affects overall cardiac pumping efficiency. Changes in the morphology and size of the LA can reflect early signs of various heart diseases.
 - **Image Types**: Primarily includes CT (Computed Tomography) images.
 - **Annotations**: LA regions marked by professional doctors to ensure accuracy and reliability of the data.
-- **Quantity**: Provides 40 LA images from different angles and patients.
+- **Quantity**: Provides 30 LA images from different angles and patients.
 
 ### 3. Left Atrial Appendage Segmentation Dataset (LAA)
 - **Description**: Focuses on detailed segmentation of the left atrial appendage, which is critical for understanding the internal structure of the heart and its impact on health.
 - **Image Types**: Primarily includes CT (Computed Tomography) images.
 - **Annotations**: LAA regions marked by professional doctors to ensure accuracy and reliability of the data.
-- **Quantity**: Provides 40 LAA images from different angles and patients.
+- **Quantity**: Provides 30 LAA images from different angles and patients.
 
 ## Purpose of Use
 
@@ -45,6 +50,9 @@ This dataset is suitable but not limited to the following research areas:
 - Risk assessment and early detection of cardiovascular diseases.
 
 
+
+
+## Contact Us
 
 
 
@@ -56,4 +64,4 @@ This dataset is suitable but not limited to the following research areas:
 * Military Medical Artificial Intelligence Laboratory, North University of China, China
   * Hualing Li
   * Yanjin Wang
-  * Huimin Guo
+  * Huiming Guo
