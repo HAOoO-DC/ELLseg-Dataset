@@ -11,8 +11,7 @@ Accurate computing, modeling, and analysis of cardiac substructures such as epic
 
 The dataset provides CT cardiac images acquired in real clinical settings, focusing on EAT and LAA segmentation. It aims to create an open resource for researchers to test and validate methods for automated segmentation of these structures, particularly addressing the technical challenges of CT-based analysis. 
 
-* * *
-**You are welcomed to use the data or results for your publications. Please cite the references below when using them:**
+
 
 **
 * * *
