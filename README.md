@@ -58,7 +58,7 @@ This dataset is suitable, but not limited to, the following research areas:
 
 
 ## Core ELLseg-Dataset Team
-* Laboratory of Artificial Intelligence and Robots, Beijing University of Technology, China
+* Laboratory of Artificial Intelligence and Robot, Beijing University of Technology, China
   * Dechen Hao
   * Jinfu Yang
 
