@@ -15,7 +15,7 @@ The dataset provides CT cardiac images acquired in real clinical settings, focus
 
 **
 
-![image](ELLseg.png)
+
 * * *
 
 
