@@ -22,7 +22,7 @@ The dataset provides CT cardiac images acquired in real clinical settings, focus
 ## License
 The <a href="https://github.com/HAOoO-DC/ELLseg-Dataset">ELLseg-Dataset：Epicardial Adipose Tissue, Left Atrium, and Left Atrial Appendage Image Segmentation Dataset (EAT &amp; LA &amp; LAA Dataset)</a> is licensed under the Creative Commons Attribution-NonCommercial 4.0 International License (<a href="https://creativecommons.org/licenses/by-nc/4.0/">CC BY-NC 4.0 </a><a href="https://creativecommons.org/licenses/by-nc/4.0/?ref=chooser-v1" target="_blank" rel="license noopener noreferrer" style="display:inline-block;"><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/cc.svg?ref=chooser-v1" alt=""><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/by.svg?ref=chooser-v1" alt=""><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/nc.svg?ref=chooser-v1" alt=""></a>).
 
-© 2025 ELLseg-Dataset Authors and participating institutions.
+© 2025 ELLseg-Dataset Authors.
 
 You are free to share and adapt the dataset for non-commercial purposes, provided that appropriate credit is given, a link to the license is included, and any changes are clearly indicated.
 
