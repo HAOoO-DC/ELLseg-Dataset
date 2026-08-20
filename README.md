@@ -29,7 +29,7 @@ The dataset provides CT cardiac images acquired in real clinical settings, focus
 - **Description**: Contains heart images obtained through various imaging techniques, focusing on labeling and segmentation of the epicardial adipose tissue.
 - **Image Types**: Primarily includes CT (Computed Tomography) images.
 - **Annotations**: EAT regions marked by professional doctors to ensure the accuracy and reliability of the data.
-- **Quantity**: The dataset includes 88 images from three centers, covering images of patients with atrial fibrillation and normal images.
+- **Quantity**: The dataset includes 83 images from three centers, covering images of patients with atrial fibrillation and normal images.
 
 
 ### 2. Left Atrial Segmentation Dataset (LA)
@@ -43,7 +43,7 @@ The dataset provides CT cardiac images acquired in real clinical settings, focus
 - **Description**: Focuses on detailed segmentation of the left atrial appendage, which is critical for understanding the internal structure of the heart and its impact on health.
 - **Image Types**: Primarily includes CT (Computed Tomography) images.
 - **Annotations**: LAA regions marked by professional doctors to ensure the accuracy and reliability of the data.
-- **Quantity**: The dataset includes 88 images from three centers, covering images of patients with atrial fibrillation and normal images.
+- **Quantity**: The dataset includes 103 images from three centers, covering images of patients with atrial fibrillation and normal images.
 
 
 ## Purpose of Use
