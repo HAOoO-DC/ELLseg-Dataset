@@ -20,14 +20,9 @@ The dataset provides CT cardiac images acquired in real clinical settings, focus
 
 
 ## License
+The <a href="https://github.com/HAOoO-DC/ELLseg-Dataset">ELLseg-Dataset：Epicardial Adipose Tissue, Left Atrium, and Left Atrial Appendage Image Segmentation Dataset (EAT &amp; LA &amp; LAA Dataset)</a> is licensed under the Creative Commons Attribution-NonCommercial 4.0 International License (<a href="https://creativecommons.org/licenses/by-nc/4.0/">CC BY-NC 4.0 </a><a href="https://creativecommons.org/licenses/by-nc/4.0/?ref=chooser-v1" target="_blank" rel="license noopener noreferrer" style="display:inline-block;"><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/cc.svg?ref=chooser-v1" alt=""><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/by.svg?ref=chooser-v1" alt=""><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/nc.svg?ref=chooser-v1" alt=""></a>).
 
-<a href="https://github.com/HAOoO-DC/ELLseg-Dataset">ELLseg-Dataset：Epicardial Adipose Tissue, Left Atrium, and Left Atrial Appendage Image Segmentation Dataset (EAT &amp; LA &amp; LAA Dataset)</a> © 2025 by <a href="https://orcid.org/0000-0002-4686-423X">Dechen Hao</a> is licensed under  <a href="https://creativecommons.org/licenses/by-nc-nd/4.0/">CC BY-NC-ND 4.0</a><a href="https://creativecommons.org/licenses/by-nc-nd/4.0/?ref=chooser-v1" target="_blank" rel="license noopener noreferrer" style="display:inline-block;"><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/cc.svg?ref=chooser-v1" alt=""><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/by.svg?ref=chooser-v1" alt=""><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/nc.svg?ref=chooser-v1" alt=""><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/nd.svg?ref=chooser-v1" alt=""></a>
-
-## License
-<a href="https://github.com/HAOoO-DC/ELLseg-Dataset">ELLseg-Dataset</a> © 2025 by <a href="https://github.com/HAOoO-DC">Dechen Hao</a> is licensed under <a href="https://creativecommons.org/licenses/by-nc/4.0/">CC BY-NC 4.0</a><img src="https://mirrors.creativecommons.org/presskit/icons/cc.svg" alt="" style="max-width: 1em;max-height:1em;margin-left: .2em;"><img src="https://mirrors.creativecommons.org/presskit/icons/by.svg" alt="" style="max-width: 1em;max-height:1em;margin-left: .2em;"><img src="https://mirrors.creativecommons.org/presskit/icons/nc.svg" alt="" style="max-width: 1em;max-height:1em;margin-left: .2em;">
-The CT volumes and segmentation masks in ELLsegDataset are licensed under the Creative Commons Attribution-NonCommercial 4.0 International License (CC BY-NC 4.0).
-
-© 2026 ELLsegDataset Authors and participating institutions.
+© 2025 ELLseg-Dataset Authors and participating institutions.
 
 You are free to share and adapt the dataset for non-commercial purposes, provided that appropriate credit is given, a link to the license is included, and any changes are clearly indicated.
 
@@ -67,14 +62,20 @@ This dataset is suitable, but not limited to, the following research areas:
 
 ## Contact Us
 
+Dechen Hao
 
 
-## Core ELLseg-Dataset Team
-* Laboratory of Artificial Intelligence and Robot, Beijing University of Technology, China
-  * Dechen Hao
-  * Jinfu Yang
+## Dataset Creator and Maintainer
 
-* Military Medical Artificial Intelligence Laboratory, North University of China, China
-  * Hualing Li
-  * Yanjin Wang
-  * Huimin Guo
+* ELLseg Dataset Team
+
+
+## Participating Institutions
+
+ELLseg-Dataset was jointly developed with contributions to dataset construction, data curation, clinical annotation, quality control, and review from the following institutions:
+
+* Laboratory of Artificial Intelligence and Robotics, Beijing University of Technology, Beijing, China
+* Military Medical Artificial Intelligence Laboratory, North University of China, Taiyuan, Shanxi, China
+* Department of Cardiology, The Second Hospital of Shanxi Medical University, Taiyuan, Shanxi, China
+* The First Hospital of Shanxi Medical University, Taiyuan, Shanxi, China
+* Fenyang City People's Hospital, Fenyang, Shanxi, China
